@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20250903_128%2F1756890166420NKBod_PNG%2F27659408480635670_771639824.png&type=sc960_832"]},
+    labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MzBfMTE0%2FMDAxNjI3NjM5MTg2MzA1.hQNVefHMeee8_yu5G9NeSHaRJM8gI0sgbtnhndi2jiAg.E4soA9N4nLDxyM4Fo8OkvBEl6Xp7_eQzY67h_KWzqo4g.JPEG.llzzinll%2FIMG_9560.JPG&type=sc960_832"]},
     labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20250903_128%2F1756890166420NKBod_PNG%2F27659408480635670_771639824.png&type=sc960_832"]},
-    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20250903_128%2F1756890166420NKBod_PNG%2F27659408480635670_771639824.png&type=sc960_832"]},
-    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20250903_128%2F1756890166420NKBod_PNG%2F27659408480635670_771639824.png&type=sc960_832"]},
+    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTA4MjZfMjQ1%2FMDAxNzU2MTgxMzQ2ODk4.ecNlsAqDkEdEBUWi0rnDCQdPH7Ey8-OeHwOmUQP6XHAg.D1liKZaqHxrBAofOESlR3UnyXHJ_pmyu0rqtL17NSo0g.JPEG%2Fpromotion_bcd81697_2_1755479655.jpg&type=sc960_832"]},
+    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNTEwMjBfMjgy%2FMDAxNzYwOTcxNDk3NjA5.akrOCK10ioxEJ8RNJMewV4NTq-DAp5Lp1rpG61ADn9Eg.uGP5uFYBWGDuk1eSYycCexoo70Vj4fZj-s1yV_9SDKEg.JPEG%2FDA742EB0-8C66-4E04-ADDA-069B9127A142_1_105_c.jpeg&type=sc960_832"]},
 }
 
 # ======================
